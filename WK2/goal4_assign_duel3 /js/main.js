@@ -1,7 +1,7 @@
 /*
 Name: Heather Kastens
-Date: 3/5/2014
-Assignment: Goal2: Assignment: Duel2
+Date: 3/12/2014
+Assignment: Goal4: Assignment: Duel3
  */
 
 //self-executing function
