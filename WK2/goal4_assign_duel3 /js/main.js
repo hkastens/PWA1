@@ -4,6 +4,8 @@ Date: 3/12/2014
 Assignment: Goal4: Assignment: Duel3
  */
 
+fighter1={name: 'Spiderman', damage:20,health:100};
+fighter2={name: 'Batman',damage:20,health:100};
 //self-executing function
 (function(){
 
